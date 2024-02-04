@@ -1,2 +1,2 @@
 # SimonGame
-Simon Game 
+Simon Game. View at: https://agarwalyashh.github.io/SimonGame/
